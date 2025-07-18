@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="d1fe8992-1e6f-45a1-8297-f553586103af.png" alt="TU Bergakademie Freiberg Logo" width="300"/>
-</p>
+<img width="567" height="567" alt="image" src="https://github.com/user-attachments/assets/e1359258-65ba-4139-8009-ceaaa11873e9" />
+
 
 # Hybrid Geostatistical–Deep Learning (GCNN–RNN) Framework for Geochemical Prediction
 
