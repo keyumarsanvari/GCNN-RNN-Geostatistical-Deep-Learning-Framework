@@ -1,5 +1,4 @@
 <img width="567" height="567" alt="image" src="https://github.com/user-attachments/assets/fdc42b12-e155-4b7e-8d11-abc16617ee67" />
-
 # Hybrid Geostatistical–Deep Learning (GCNN–RNN) Framework for Geochemical Prediction
 
 **Author:** Keyumars Anvari  
