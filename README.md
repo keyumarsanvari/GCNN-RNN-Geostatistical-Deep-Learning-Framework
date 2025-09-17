@@ -12,7 +12,7 @@
 
 This repository demonstrates the **GCNN–RNN Hybrid Framework** developed for the paper:
 
-> **Hybrid Geostatistical–Deep Learning Framework for Geochemical Characterization in Historical Mine Tailings**
+> **Hybrid Geostatistical and Deep Learning Framework for Geochemical Characterization in Historical Mine Tailings**
 
 We combine **classical geostatistics** (spatial covariance modeling via ordinary kriging) with **deep learning** (convolutional and recurrent neural networks) to produce **accurate, robust, and spatially-aware predictions of geochemical properties** in mining environments, even under sparse or noisy data conditions.
 
@@ -62,7 +62,7 @@ cd GCNN-RNN-Geostatistical-Deep-Learning-Framework
 If you use this framework in your research, please cite:
 
 Keyumars Anvari, Jörg Benndorf, Gabriel Gerber, Uta Alisch,  
-*"Hybrid Geostatistical–Deep Learning Framework for Geochemical Characterization in Historical Mine Tailings."*  
+*"Hybrid Geostatistical and Deep Learning Framework for Geochemical Characterization in Historical Mine Tailings."*  
 
 ---
 
@@ -82,4 +82,5 @@ TU Bergakademie Freiberg
 ## ⭐ Contributing
 
 Contributions and enhancements are welcome! If you find bugs or wish to extend functionalities (e.g., additional variogram models, new network layers), please open an issue or submit a pull request.
+
 
