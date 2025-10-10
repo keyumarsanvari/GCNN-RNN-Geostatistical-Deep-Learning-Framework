@@ -63,10 +63,7 @@ cd GCNN-RNN-Geostatistical-Deep-Learning-Framework
 
 If you use this framework in your research, please cite:
 
-Anvari, K., Benndorf, J., Gerber, G., & Alisch, U. (2025).
-*"Hybrid Geostatistical and Deep Learning Framework for Geochemical Characterization in Historical Mine Tailings."*  
-Scientific Reports, Nature Publishing Group.
-DOI: 10.1038/s41598-025-19441-5
+Anvari, K., Benndorf, J., Gerber, G. et al. Hybrid geostatistical and deep learning framework for geochemical characterization in historical mine tailings. Sci Rep 15, 35004 (2025). https://doi.org/10.1038/s41598-025-19441-5
 
 ---
 
@@ -86,6 +83,7 @@ TU Bergakademie Freiberg
 ## ⭐ Contributing
 
 Contributions and enhancements are welcome! If you find bugs or wish to extend functionalities (e.g., additional variogram models, new network layers), please open an issue or submit a pull request.
+
 
 
 
