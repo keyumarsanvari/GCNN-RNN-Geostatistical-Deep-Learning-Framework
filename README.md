@@ -76,7 +76,7 @@ Department of Mine Surveying and Geodesy
 TU Bergakademie Freiberg
 
 📧 [keyumarsanvari@gmail.com](mailto:keyumarsanvari@gmail.com)  
-📧 [Kayumars.Anvari@doktorand.tu-freiberg.de](mailto:Kayumars.Anvari@doktorand.tu-freiberg.de)
+📧 [Keyumars.Anvari@doktorand.tu-freiberg.de](mailto:Keyumars.Anvari@doktorand.tu-freiberg.de)
 
 ---
 
